@@ -1,8 +1,8 @@
 <p align="center">
     <picture>
-        <source srcset="./banner-dark.png" media="(prefers-color-scheme: dark)">
-        <source srcset="./banner.png" media="(prefers-color-scheme: light)">
-        <img src="./banner.png" alt="better-auth-extended Logo">
+        <source srcset="../banner-dark.png" media="(prefers-color-scheme: dark)">
+        <source srcset="../banner.png" media="(prefers-color-scheme: light)">
+        <img src="../banner.png" alt="better-auth-extended Logo">
     </picture>
     <h2 align="center">
         better-auth-extended
